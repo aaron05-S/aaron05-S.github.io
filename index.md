@@ -14,9 +14,9 @@ My GitHub page is http://github.com/aaron05-S.
 
 * Lab 10
 
-    part 2 was a favorite for me because it was interesting learning how you can write a code that looks up all of California's population data. I had no idea you can make code to store large amounts of data and input an answer and be given the correct answer. I would definitely do this again but with something similar.
+    part 2 was a favorite for me because it was interesting learning how you can write a code that looks up all of California's population data. I had no idea you can make code to store large amounts of data and input an answer and be given the correct answer.I would definitely do this again but with something similar.
 
 * Lab 11
 
-    part 2 was a favorite for me because I was curious to see how much work goes into coding a guess the secret number game. It was shocking to learn you have to write code for every aspect of the game or it might not run correctly. I have always been intrigued by how games are made it was cool to program a simple one like this
+    part 2 was a favorite for me because I was interested to see how much work goes into coding a guess the secret number game. I was shocked to learn you have to write code for every aspect of the game or it might not run correctly. I have always been intrigued by how games are made it was cool to program a simple one like this
 
